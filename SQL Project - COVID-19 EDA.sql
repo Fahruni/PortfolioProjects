@@ -2,6 +2,9 @@
 Covid-19 Exploartion Data Analysis
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Data sources: 
+github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx, 
+https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx
 
 */
 
